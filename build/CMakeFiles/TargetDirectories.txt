@@ -1,0 +1,10 @@
+/home/lmx/work/github/qt_demo/build/CMakeFiles/edit_cache.dir
+/home/lmx/work/github/qt_demo/build/CMakeFiles/rebuild_cache.dir
+/home/lmx/work/github/qt_demo/build/bsp/CMakeFiles/bsp_static.dir
+/home/lmx/work/github/qt_demo/build/bsp/CMakeFiles/bsp.dir
+/home/lmx/work/github/qt_demo/build/bsp/CMakeFiles/edit_cache.dir
+/home/lmx/work/github/qt_demo/build/bsp/CMakeFiles/rebuild_cache.dir
+/home/lmx/work/github/qt_demo/build/main/CMakeFiles/main.dir
+/home/lmx/work/github/qt_demo/build/main/CMakeFiles/edit_cache.dir
+/home/lmx/work/github/qt_demo/build/main/CMakeFiles/rebuild_cache.dir
+/home/lmx/work/github/qt_demo/build/main/CMakeFiles/main_autogen.dir

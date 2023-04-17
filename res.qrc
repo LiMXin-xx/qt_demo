@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>resources/image/na.png</file>
+        <file>resources/image/biting.gif</file>
+        <file>resources/image/bk.jpg</file>
+        <file>resources/image/bk.png</file>
+        <file>resources/image/boy.gif</file>
+        <file>resources/image/butterfly.png</file>
+        <file>resources/image/butterfly1.png</file>
+        <file>resources/image/c++father.jpg</file>
+        <file>resources/image/c++study.jpg</file>
+        <file>resources/image/chatQQ.gif</file>
+        <file>resources/image/down.png</file>
+        <file>resources/image/face.png</file>
+        <file>resources/image/Frame.jpg</file>
+        <file>resources/image/Luffy.png</file>
+        <file>resources/image/LuffyQ.png</file>
+        <file>resources/image/mario.gif</file>
+        <file>resources/image/myheart.png</file>
+        <file>resources/image/OnePiece.png</file>
+        <file>resources/image/QT.jpg</file>
+        <file>resources/image/qt2.png</file>
+        <file>resources/image/Qt5.jpg</file>
+        <file>resources/image/Sunny.jpg</file>
+        <file>resources/image/sunny.png</file>
+        <file>resources/image/up.png</file>
+    </qresource>
+
+    <qresource prefix="/text">
+        <file>resources/text/test.txt</file>
+    </qresource>
+</RCC>

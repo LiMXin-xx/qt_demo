@@ -1,0 +1,141 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "bsp",
+					"jsonFile" : "directory-bsp-Debug-ddcbaa6fe01317611fd8.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "bsp",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				},
+				{
+					"build" : "main",
+					"jsonFile" : "directory-main-Debug-c59558c0a3fb20727b44.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "main",
+					"targetIndexes" : 
+					[
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "qt_demo"
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "bsp",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "main",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "bsp::@96b238adef3af577cb54",
+					"jsonFile" : "target-bsp-Debug-82825fa8d72e64a6bfe0.json",
+					"name" : "bsp",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "bsp_static::@96b238adef3af577cb54",
+					"jsonFile" : "target-bsp_static-Debug-645a89152a797babc1b7.json",
+					"name" : "bsp_static",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "main::@15c4a824ab2728a3f5e7",
+					"jsonFile" : "target-main-Debug-c9e93dd5deb470a40cd5.json",
+					"name" : "main",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "main_autogen::@15c4a824ab2728a3f5e7",
+					"jsonFile" : "target-main_autogen-Debug-994547af2d6f8d6bd0dc.json",
+					"name" : "main_autogen",
+					"projectIndex" : 2
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/lmx/work/github/qt_demo/build",
+		"source" : "/home/lmx/work/github/qt_demo"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

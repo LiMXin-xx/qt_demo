@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -pipe -std=c++17 -g -g -O0 -shared -Wl,-soname,libbsp.so -o libbsp.so CMakeFiles/bsp.dir/src/app.cpp.o 
